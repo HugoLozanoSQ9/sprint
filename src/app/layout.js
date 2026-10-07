@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 export const metadata = {
   title: "Sprint Soundtrack — Retrospectiva Musical Ágil",
   description:
-    "Convierte las emociones de tu sprint en una progresión de acordes. Retrospectiva ágil con teoría musical y Tone.js.",
+    "Convierte las emociones de tu sprint en una progresión de 8 acordes en 4/4. Retrospectiva ágil con teoría musical y Tone.js.",
 };
 
 export default function RootLayout({ children }) {
